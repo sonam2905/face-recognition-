@@ -1,2 +1,1 @@
-# face-recognition-
-in this tutorial , i am going to show you face recognition using python .
+# learn face recognition using python opencv in just few lines of code.
